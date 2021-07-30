@@ -1,0 +1,1736 @@
+###BEGIN EXTRASPRITES
+extraSprites:
+##BEGIN BIGOB
+  - type: BIGOBS.PCK
+    files:
+      3: Resources/Items/Pistol/BigOb_Pistol.png
+      5: Resources/Items/LaserPistol/BigOb_LaserPistol.png
+      6: Resources/Items/HeavyLaserSniper/BigOb_HeavyLaserSniper.png
+      7: Resources/Items/AutoCannon/BigOb_AutoCannon.png
+      15: Resources/Items/RocketLauncher/BigOb_RocketLauncher.png
+      20: Resources/Items/SmokeGrenade/BigOb_SmokeGrenade.png
+      28: Resources/Units/PersonalArmor/BigOb_PersonalArmor_Corpse.png
+      31: Resources/Items/PlasmaRifle/BigOb_PlasmaRifle.png
+      32: Resources/Items/PlasmaPistol/BigOb_PlasmaPistol.png
+      34: Resources/Items/PlasmaPistol/BigOb_PlasmaPistol_Clip.png
+      35: Resources/Items/BlasterLauncher/BigOb_BlasterLauncher.png
+      41: Resources/Items/PlasmaRifle/BigOb_PlasmaRifle_Clip.png
+      100: Resources/Items/Pistol/BigOb_Pistol_AlienAlloy_Clip.png
+      101: Resources/Items/Rifle/BigOb_Rifle_AlienAlloy_Clip.png
+      102: Resources/Items/Shotgun/BigOb_Shotgun.png
+      103: Resources/Items/ScatterLaser/BigOb_ScatterLaser.png
+      104: Resources/Items/Shotgun/BigOb_ShotgunAmmo.png
+      105: Resources/Items/Shotgun/BigOb_Shotgun_AlienAlloy_Clip.png
+      107: Resources/Items/SniperRifle/BigOb_SniperRifle.png
+      108: Resources/Items/SniperRifle/BigOb_SniperRifle_Clip.png
+      109: Resources/Items/SniperRifle/BigOb_SniperRifle_AlienAlloy_Clip.png
+      110: Resources/Items/HeavyCannon/BigOb_HeavyCannon_AlienAlloy_Clip.png
+      111: Resources/Items/AutoCannon/BigOb_AutoCannon_AlienAlloy_Clip.png
+      112: Resources/Items/HeavyLaserAuto/BigOb_HeavyLaserAuto.png
+      113: Resources/Items/IncendiaryGrenade/BigOb_IncendiaryGrenade.png
+      114: Resources/Items/StunGrenade/BigOb_StunGrenade.png
+      115: Resources/Items/FieldMediPack/BigOb_FieldMediPack.png
+      116: Resources/Items/MediKit/BigOb_MediKit.png
+      117: Resources/Items/AdvancedMediKit/BigOb_AdvancedMediKit.png
+      118: Resources/Items/TaserPistol/BigOb_TaserPistol.png
+      119: Resources/Items/TaserPistol/BigOb_TaserPistol_Clip.png
+      120: Resources/Items/PlasmaShotgun/BigOb_PlasmaShotgun.png
+      121: Resources/Items/PlasmaShotgun/BigOb_PlasmaShotgun_Clip.png
+      122: Resources/Items/PlasmaShotgun/BigOb_PlasmaShotgun_Elerium_Clip.png
+      123: Resources/Items/PlasmaSniperRifle/BigOb_PlasmaSniperRifle.png
+      124: Resources/Items/PlasmaSniperRifle/BigOb_PlasmaSniperRifle_Clip.png
+      125: Resources/Items/SmallLauncher/BigOb_EleriumBomb.png
+      126: Resources/Units/AlloyTank/BigOb_AlloyTank_Canon.png
+      127: Resources/Units/AlloyTank/BigOb_AlloyTank_RocketLauncher.png
+      128: Resources/Units/AlloyTank/BigOb_AlloyTank_Laser.png
+      129: Resources/Units/ArmoredVest/BigOb_ArmoredVest_Corpse.png
+      130: Resources/Units/AlloyVest/BigOb_AlloyVest_Corpse.png
+      131: Resources/Units/Waspite/BigOb_Waspite_Corpse.png
+      132: Resources/Units/Cybermite/BigOb_Cybermite_Corpse.png
+      133: Resources/Units/Gazer/BigOb_Gazer_Corpse.png
+      134: Resources/Units/Holodrone/BigOb_Holodrone_Corpse.png
+      135: Resources/Units/MutonElite/BigOb_MutonElite_Corpse.png
+      136: Resources/Units/MutonEliteGuard/BigOb_MutonEliteGuard_Corpse.png
+      137: Resources/Items/AlienDataSlate/BigOb_AlienDataSlate.png
+      138: Resources/Items/AlienDataCore/BigOb_AlienDataCore.png
+      139: Resources/Items/CombatKnife/BigOb_CombatKnife.png
+      140: Resources/Items/AlloyKnife/BigOb_AlloyKnife.png
+      141: Resources/Items/AlloySword/BigOb_AlloySword.png
+      142: Resources/Units/MaleCivilian_Rocker/BigOb_MaleCivilian_Rocker_Corpse.png
+      143: Resources/Units/MaleCivilian_BlackVest_WhiteShirt/BigOb_MaleCivilian_BlackVest_WhiteShirt_Corpse.png
+      144: Resources/Units/MaleCivilian_ConstructionWorker/BigOb_MaleCivilian_ConstructionWorker_Corpse.png
+      145: Resources/Units/MaleCivilian_Sailor/BigOb_MaleCivilian_Sailor_Corpse.png
+      146: Resources/Units/MaleCivilian_Baggydude/BigOb_MaleCivilian_Baggydude_Corpse.png
+      147: Resources/Units/MaleCivilian_Mechanic/BigOb_MaleCivilian_Mechanic_Corpse.png
+      148: Resources/Units/FemaleCivilian_SuitBlack_HairRed/BigOb_FemaleCivilian_SuitBlack_HairRed_Corpse.png
+      149: Resources/Units/FemaleCivilian_SuitBlue_HairBlond/FloorOb_FemaleCivilian_SuitBlue_HairBlond_Corpse.png
+      150: Resources/Items/RocketLauncher/BigOb_EleriumRocket.png
+      151: Resources/Items/FlashBangGrenade/BigOb_FlashbangGrenade.png
+      152: Resources/Items/GrenadeLauncher/BigOb_GrenadeLauncher.png
+      153: Resources/Items/GrenadeLauncher/BigOb_GrenadeLauncher_HE_Ammo.png
+      154: Resources/Items/GrenadeLauncher/BigOb_GrenadeLauncher_IC_Ammo.png
+      155: Resources/Items/GrenadeLauncher/BigOb_GrenadeLauncher_Smoke_Ammo.png
+      156: Resources/Items/PlasmaSniperRifle/BigOb_PlasmaSniperRifle_Elerium_Clip.png
+      157: Resources/Units/FlyingSuit/BigOb_FlyingSuit_Corpse.png
+      158: Resources/Units/SectoidElite/BigOb_SectoidElite_Corpse.png
+      159: Resources/Units/ReinforcedPowerSuit/BigOb_ReinforcedPowerSuit_Corpse.png
+      160: Resources/Units/ReinforcedFlyingSuit/BigOb_ReinforcedFlyingSuit_Corpse.png
+      161: Resources/Items/PlasmaBlade/BigOb_PlasmaBlade.png
+      162: Resources/Items/PlasmaSword/BigOb_PlasmaSword.png
+      163: Resources/Units/WalkertankPlasma/BigOb_WalkertankPlasma.png
+      164: Resources/Units/ChryssalidSpitter/BigOb_ChryssalidSpitter_Corpse.png
+      165: Resources/Items/SmallLauncher/BigOb_FireBomb.png
+      166: Resources/Items/SmallLauncher/BigOb_SmokeBomb.png
+      167: Resources/Units/MutonBerserker/BigOb_MutonBerserker_Corpse.png
+      168: Resources/Units/Drones/BigOb_DroneSmoke_Weapon.png
+      169: Resources/Units/Drones/BigOb_DroneScanner_Weapon.png
+      170: Resources/Units/Drones/BigOb_DroneTaser_Weapon.png
+      171: Resources/Units/Drones/DroneScout/BigOb_DroneScout_Corpse.png
+      172: Resources/Units/Drones/DroneScanner/BigOb_DroneScanner_Corpse.png
+      173: Resources/Units/Drones/DroneMedikit/BigOb_DroneMedikit_Corpse.png
+      174: Resources/Units/Drones/DroneTaser/BigOb_DroneTaser_Corpse.png
+      175: Resources/Units/Drones/AlloyDroneScout/BigOb_AlloyDroneScout_Corpse.png
+      176: Resources/Units/Drones/AlloyDroneScanner/BigOb_AlloyDroneScanner_Corpse.png
+      177: Resources/Units/Drones/AlloyDroneMedikit/BigOb_AlloyDroneMedikit_Corpse.png
+      178: Resources/Units/Drones/AlloyDroneTaser/BigOb_AlloyDroneTaser_Corpse.png
+      179: Resources/Items/FireGrenade/BigOb_FireGrenade.png
+      180: Resources/Items/HeavyPlasma/BigOb_HeavyPlasma_Clip.png
+##END BIGOB
+
+##BEGIN FLOOROB
+  - type: FLOOROB.PCK
+    files:
+      5: Resources/Items/LaserPistol/FloorOb_LaserPistol.png
+      6: Resources/Items/HeavyLaserSniper/FloorOb_HeavyLaserSniper.png
+      7: Resources/Items/AutoCannon/FloorOb_AutoCannon.png
+      15: Resources/Items/RocketLauncher/FloorOb_RocketLauncher.png
+      20: Resources/Items/SmokeGrenade/FloorOb_SmokeGrenade.png
+      30: Resources/Items/PlasmaRifle/FloorOb_PlasmaRifle.png
+      34: Resources/Items/BlasterLauncher/FloorOb_BlasterLauncher.png
+      40: Resources/Units/PersonalArmor/FloorOb_PersonalArmor_Corpse.png
+      100: Resources/Items/Shotgun/FloorOb_Shotgun.png
+      101: Resources/Items/ScatterLaser/FloorOb_ScatterLaser.png
+      102: Resources/Items/Shotgun/FloorOb_Shotgun_Clip.png
+      103: Resources/Items/Shotgun/FloorOb_Shotgun_AlienAlloy_Clip.png
+      105: Resources/Items/SniperRifle/FloorOb_SniperRifle.png
+      106: Resources/Items/SniperRifle/FloorOb_SniperRifle_Clip.png
+      107: Resources/Items/HeavyLaserAuto/FloorOb_HeavyLaserAuto.png
+      108: Resources/Items/IncendiaryGrenade/FloorOb_IncendiaryGrenade.png
+      109: Resources/Items/StunGrenade/FloorOb_StunGrenade.png
+      110: Resources/Items/FieldMediPack/FloorOb_FieldMediPack.png
+      111: Resources/Items/MediKit/FloorOb_MediKit.png
+      112: Resources/Items/AdvancedMediKit/FloorOb_AdvancedMediKit.png
+      113: Resources/Items/TaserPistol/FloorOb_TaserPistol.png
+      114: Resources/Items/TaserPistol/FloorOb_TaserPistol_Clip.png
+      115: Resources/Items/PlasmaShotgun/FloorOb_PlasmaShotgun.png
+      116: Resources/Items/PlasmaShotgun/FloorOb_PlasmaShotgun_Clip.png
+      117: Resources/Items/PlasmaShotgun/FloorOb_PlasmaShotgun_Elerium_Clip.png
+      118: Resources/Items/PlasmaSniperRifle/FloorOb_PlasmaSniperRifle.png
+      119: Resources/Items/PlasmaSniperRifle/FloorOb_PlasmaSniperRifle_Clip.png
+      120: Resources/Items/SmallLauncher/FloorOb_EleriumBomb.png
+      121: Resources/Items/Elerium/FloorOb_Elerium.png
+      122: Resources/Units/AlloyTank/FloorOb_AlloyTank_Corpse_1.png
+      123: Resources/Units/AlloyTank/FloorOb_AlloyTank_Corpse_2.png
+      124: Resources/Units/AlloyTank/FloorOb_AlloyTank_Corpse_3.png
+      125: Resources/Units/AlloyTank/FloorOb_AlloyTank_Corpse_4.png
+      126: Resources/Units/ArmoredVest/FloorOb_ArmoredVest_Corpse.png
+      127: Resources/Units/AlloyVest/FloorOb_AlloyVest_Corpse.png
+      128: Resources/Units/Waspite/FloorOb_Waspite_Corpse.png
+      129: Resources/Units/Cybermite/FloorOb_Cybermite_Corpse.png
+      130: Resources/Units/Gazer/FloorOb_Gazer_Corpse.png
+      131: Resources/Units/Holodrone/FloorOb_Holodrone_Corpse.png
+      132: Resources/Units/MutonElite/FloorOb_MutonElite_Corpse.png
+      133: Resources/Units/MutonEliteGuard/FloorOb_MutonEliteGuard_Corpse.png
+      134: Resources/Items/AlienDataSlate/FloorOb_AlienDataSlate.png
+      135: Resources/Items/AlienDataCore/FloorOb_AlienDataCore.png
+      136: Resources/Items/CombatKnife/FloorOb_CombatKnife.png
+      137: Resources/Items/AlloyKnife/FloorOb_AlloyKnife.png
+      138: Resources/Items/AlloySword/FloorOb_AlloySword.png
+      139: Resources/Units/MaleCivilian_Rocker/FloorOb_MaleCivilian_Rocker_Corpse.png
+      140: Resources/Units/MaleCivilian_BlackVest_WhiteShirt/FloorOb_MaleCivilian_BlackVest_WhiteShirt_Corpse.png
+      141: Resources/Units/MaleCivilian_ConstructionWorker/FloorOb_MaleCivilian_ConstructionWorker_Corpse.png
+      142: Resources/Units/MaleCivilian_Sailor/BigOb_MaleCivilian_Sailor_Corpse.png
+      143: Resources/Units/MaleCivilian_Baggydude/FloorOb_MaleCivilian_Baggydude_Corpse.png
+      144: Resources/Units/MaleCivilian_Mechanic/FloorOb_MaleCivilian_Mechanic_Corpse.png
+      145: Resources/Units/FemaleCivilian_SuitBlack_HairRed/FloorOb_FemaleCivilian_SuitBlack_HairRed_Corpse.png
+      146: Resources/Units/FemaleCivilian_SuitBlue_HairBlond/FloorOb_FemaleCivilian_SuitBlue_HairBlond_Corpse.png
+      147: Resources/Items/RocketLauncher/FloorOb_EleriumRocket.png
+      148: Resources/Items/FlashBangGrenade/FloorOb_FlasbangGrenade.png
+      149: Resources/Items/GrenadeLauncher/FloorOb_GrenadeLauncher.png
+      150: Resources/Items/GrenadeLauncher/FloorOb_GrenadeLauncher_HE_Ammo.png
+      151: Resources/Items/GrenadeLauncher/FloorOb_GrenadeLauncher_IC_Ammo.png
+      152: Resources/Items/GrenadeLauncher/FloorOb_GrenadeLauncher_Smoke_Ammo.png
+      153: Resources/Items/PlasmaSniperRifle/FloorOb_PlasmaSniperRifle_Elerium_Clip.png
+      154: Resources/Units/ArmoredCyberdisc/FloorOb_ArmoredCyberdisc_Corpse_1.png
+      155: Resources/Units/ArmoredCyberdisc/FloorOb_ArmoredCyberdisc_Corpse_2.png
+      156: Resources/Units/ArmoredCyberdisc/FloorOb_ArmoredCyberdisc_Corpse_3.png
+      157: Resources/Units/ArmoredCyberdisc/FloorOb_ArmoredCyberdisc_Corpse_4.png
+      158: Resources/Units/ArmoredSectopod/FloorOb_ArmoredSectopod_Corpse_1.png
+      159: Resources/Units/ArmoredSectopod/FloorOb_ArmoredSectopod_Corpse_2.png
+      160: Resources/Units/ArmoredSectopod/FloorOb_ArmoredSectopod_Corpse_3.png
+      161: Resources/Units/ArmoredSectopod/FloorOb_ArmoredSectopod_Corpse_4.png
+      162: Resources/Units/FlyingSuit/FloorOb_FlyingSuit_Corpse.png
+      163: Resources/Units/SectoidElite/FloorOb_SectoidElite_Corpse.png
+      164: Resources/Units/ReinforcedPowerSuit/FloorOb_ReinforcedPowerSuit_Corpse.png
+      165: Resources/Units/ReinforcedFlyingSuit/FloorOb_ReinforcedFlyingSuit_Corpse.png
+      166: Resources/Items/PlasmaBlade/FloorOb_PlasmaBlade.png
+      167: Resources/Items/PlasmaSword/FloorOb_PlasmaSword.png
+      168: Resources/Units/WalkertankPlasma/FloorOb_WalkertankPlasma_Corpse_1.png
+      169: Resources/Units/WalkertankPlasma/FloorOb_WalkertankPlasma_Corpse_2.png
+      170: Resources/Units/WalkertankPlasma/FloorOb_WalkertankPlasma_Corpse_3.png
+      171: Resources/Units/WalkertankPlasma/FloorOb_WalkertankPlasma_Corpse_4.png
+      172: Resources/Items/Pistol/FloorOb_Pistol_AA_Clip.png
+      173: Resources/Items/Rifle/FloorOb_Rifle_AA_Clip.png
+      174: Resources/Items/HeavyCannon/FloorOb_HeavyCannon_AA_Clip.png
+      175: Resources/Items/AutoCannon/FloorOb_AutoCannon_AA_Clip.png
+      176: Resources/Items/SniperRifle/FloorOb_SniperRifle_AA_Clip.png
+      177: Resources/Units/ChryssalidSpitter/FloorOb_ChryssalidSpitter_Corpse.png
+      178: Resources/Items/SmallLauncher/FloorOb_FireBomb.png
+      179: Resources/Items/SmallLauncher/FloorOb_SmokeBomb.png
+      180: Resources/Units/MutonBerserker/FloorOb_MutonBerserker_Corpse.png
+      181: Resources/Units/Drones/DroneScout/FloorOb_DroneScout_Corpse.png
+      182: Resources/Units/Drones/DroneScanner/FloorOb_DroneScanner_Corpse.png
+      183: Resources/Units/Drones/DroneMedikit/FloorOb_DroneMedikit_Corpse.png
+      184: Resources/Units/Drones/DroneTaser/FloorOb_DroneTaser_Corpse.png
+      185: Resources/Units/Drones/AlloyDroneScout/FloorOb_AlloyDroneScout_Corpse.png
+      186: Resources/Units/Drones/AlloyDroneScanner/FloorOb_AlloyDroneScanner_Corpse.png
+      187: Resources/Units/Drones/AlloyDroneMedikit/FloorOb_AlloyDroneMedikit_Corpse.png
+      188: Resources/Units/Drones/AlloyDroneTaser/FloorOb_AlloyDroneTaser_Corpse.png
+      189: Resources/Items/PlasmaPistol/FloorOb_PlasmaPistol_Clip.png
+      190: Resources/Items/PlasmaRifle/FloorOb_PlasmaRifle_Clip.png
+      191: Resources/Items/HeavyPlasma/FloorOb_HeavyPlasma_Clip.png
+      192: Resources/Items/FireGrenade/FloorOb_FireGrenade.png
+##END FLOOROB
+
+##BEGIN HANDOB
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      16: Resources/Items/HeavyLaserSniper/HandOb_HeavyLaserSniper.png
+      32: Resources/Items/AutoCannon/HandOb_AutoCannon.png
+      48: Resources/Items/PlasmaRifle/HandOb_PlasmaRifle.png
+      56: Resources/Items/BlasterLauncher/HandOb_BlasterLauncher.png
+      72: Resources/Items/RocketLauncher/HandOb_RocketLauncher.png
+      112: Resources/Items/LaserPistol/HandOb_LaserPistol.png
+      128: Resources/Items/Pistol/HandOb_Pistol_Clip.png
+      136: Resources/Items/Rifle/HandOb_Rifle_Clip.png
+  - type: HANDOB.PCK
+    width: 128
+    height: 80
+    subX: 32
+    subY: 40
+    files:
+      144: Resources/Items/Shotgun/HandOb_Shotgun.png
+      152: Resources/Items/ScatterLaser/HandOb_ScatterLaser.png
+  - type: HANDOB.PCK
+    width: 256
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      160: Resources/Items/SniperRifle/HandOb_SniperRifle.png
+      168: Resources/Items/HeavyCannon/HandOb_HeavyCannon_AP_Clip.png
+      176: Resources/Items/HeavyCannon/HandOb_HeavyCannon_HE_Clip.png
+      184: Resources/Items/HeavyCannon/HandOb_HeavyCannon_IN_Clip.png
+      192: Resources/Items/AutoCannon/HandOb_AutoCannon_AP_Clip.png
+      200: Resources/Items/AutoCannon/HandOb_AutoCannon_HE_Clip.png
+      208: Resources/Items/AutoCannon/HandOb_AutoCannon_IN_Clip.png
+      216: Resources/Items/RocketLauncher/HandOb_SmallRocket.png
+      224: Resources/Items/RocketLauncher/HandOb_LargeRocket.png
+      232: Resources/Items/RocketLauncher/HandOb_IncendiaryRocket.png
+      240: Resources/Items/HeavyLaserAuto/HandOb_HeavyLaserAuto.png
+      248: Resources/Items/SmokeGrenade/HandOb_SmokeGrenade.png
+      256: Resources/Items/ProxieGrenade/HandOb_ProxieGrenade.png
+      264: Resources/Items/IncendiaryGrenade/HandOb_IncendiaryGrenade.png
+      272: Resources/Items/HighExplosiv/HandOb_HighExplosiv.png
+      280: Resources/Items/MotionScanner/HandOb_MotionScanner.png
+      288: Resources/Items/FieldMediPack/HandOb_FieldMediPack.png
+      296: Resources/Items/MediKit/HandOb_MediKit.png
+      304: Resources/Items/AdvancedMediKit/HandOb_Advanced_MediKit.png
+      312: Resources/Items/TaserPistol/HandOb_TaserPistol.png
+      320: Resources/Items/ElectroFlare/HandOb_ElectroFlare.png
+      328: Resources/Items/HeavyPlasma/HandOb_HeavyPlasma_Clip.png
+      336: Resources/Items/PlasmaShotgun/HandOb_PlasmaShotgun.png
+      344: Resources/Items/PlasmaSniperRifle/HandOb_PlasmaSniperRifle.png
+      352: Resources/Items/PlasmaRifle/HandOb_PlasmaRifle_Clip.png
+      360: Resources/Items/PlasmaPistol/HandOb_PlasmaPistol_Clip.png
+      368: Resources/Items/BlasterLauncher/HandOb_BlasterBomb.png
+      376: Resources/Items/SmallLauncher/HandOb_StunBomb.png
+      384: Resources/Items/SmallLauncher/HandOb_EleriumBomb.png
+      392: Resources/Items/AlienGrenade/HandOb_AlienGrenade.png
+      400: Resources/Items/Elerium/HandOb_Elerium.png
+      408: Resources/Items/MindProbe/HandOb_MindProbe.png
+      416: Resources/Items/CombatKnife/HandOb_CombatKnife.png
+      424: Resources/Items/AlloySword/HandOb_AlloySword.png
+      432: Resources/Items/StunGrenade/HandOb_StunGrenade.png
+      440: Resources/Items/FlashBangGrenade/HandOb_FlashbangGrenade.png
+      448: Resources/Items/GrenadeLauncher/HandOb_GrenadeLauncher.png
+      456: Resources/Items/PlasmaSniperRifle/HandOb_PlasmaSniperRifle_Clip.png
+      464: Resources/Items/PlasmaSniperRifle/HandOb_PlasmaSniperRifle_Elerium_Clip.png
+      472: Resources/Items/GrenadeLauncher/HandOb_GrenadeLauncher_HE_Ammo.png
+      480: Resources/Items/GrenadeLauncher/HandOb_GrenadeLauncher_IC_Ammo.png
+      488: Resources/Items/GrenadeLauncher/HandOb_GrenadeLauncher_Smoke_Ammo.png
+      496: Resources/Items/PlasmaBlade/HandOb_PlasmaBlade.png
+      504: Resources/Items/PlasmaSword/HandOb_PlasmaSword.png
+      512: Resources/Items/PlasmaShotgun/HandOb_PlasmaShotgun_Clip.png
+      520: Resources/Items/PlasmaShotgun/HandOb_PlasmaShotgun_Elerium_Clip.png
+      528: Resources/Items/RocketLauncher/HandOb_EleriumRocket.png
+      536: Resources/Items/Pistol/HandOb_Pistol_AA_Clip.png
+      544: Resources/Items/Rifle/HandOb_Rifle_AA_Clip.png
+      552: Resources/Items/AutoCannon/HandOb_AutoCannon_AA_Clip.png
+      560: Resources/Items/HeavyCannon/HandOb_HeavyCannon_AA_Clip.png
+      568: Resources/Items/SniperRifle/HandOb_SniperRifle_Clip.png
+      576: Resources/Items/SniperRifle/HandOb_SniperRifle_AA_Clip.png
+      584: Resources/Items/Shotgun/HandOb_Shotgun_Clip.png
+      592: Resources/Items/Shotgun/HandOb_Shotgun_AA_Clip.png
+      600: Resources/Items/TaserPistol/HandOb_TaserPistol_Clip.png
+      608: Resources/Items/SmallLauncher/HandOb_FireBomb.png
+      616: Resources/Items/SmallLauncher/HandOb_SmokeBomb.png
+      624: Resources/Items/FireGrenade/HandOb_FireGrenade.png
+##END HANDOB
+
+##BEGIN TEXTURES
+  - type: TEXTURE.DAT
+    files:
+      11: Resources/Geoscape/Texture15.png
+      24: Resources/Geoscape/Texture36.png
+      37: Resources/Geoscape/Texture57.png
+##END TEXTURES
+
+##BEGIN PROJECTILES
+  - type: Projectiles
+    width: 105
+    height: 3
+    subX: 3
+    subY: 3
+    files:
+      350: Resources/Items/BlasterLauncher/BulletSprite_BlasterLauncher.png
+  - type: Projectiles
+    width: 57
+    height: 3
+    subX: 3
+    subY: 3
+    files:
+      385: Resources/Items/SniperRifle/BulletSprite_SniperRifle.png
+  - type: Projectiles
+    width: 65
+    height: 6
+    subX: 3
+    subY: 3
+    files:
+      420: Resources/Items/TaserPistol/BulletSprite_TaserPistol.png
+  - type: Projectiles
+    width: 105
+    height: 9
+    subX: 3
+    subY: 3
+    files:
+      455: Resources/Items/GrenadeLauncher/BulletSprite_GrenadeLauncher.png
+  - type: Projectiles
+    width: 105
+    height: 3
+    subX: 3
+    subY: 3
+    files:
+      560: Resources/Items/SmallLauncher/BulletSprite_EleriumBomb.png
+      595: Resources/Items/SmallLauncher/BulletSprite_FireBomb.png
+      630: Resources/Items/SmallLauncher/BulletSprite_SmokeBomb.png
+      665: Resources/Items/Pistol/BulletSprite_Pistol_AA.png
+      700: Resources/Items/Rifle/BulletSprite_Rifle_AA.png
+      735: Resources/Items/AutoCannon/BulletSprite_AutoCannon_AA.png
+      770: Resources/Items/HeavyCannon/BulletSprite_HeavyCannon_AA.png
+  - type: Projectiles
+    width: 57
+    height: 3
+    subX: 3
+    subY: 3
+    files:
+      805: Resources/Items/SniperRifle/BulletSprite_SniperRifle_AA.png
+  - type: Projectiles#24
+    width: 65
+    height: 6
+    subX: 3
+    subY: 3
+    files:
+      840: Resources/Units/Drones/BulletSprite_DroneTaser.png
+##END PROJECTILES
+
+##BEGIN HIT & EXPLOSTION ANIMATIONS
+#BEGIN HIT
+  - type: HIT.PCK
+    height: 40
+    width: 128
+    subX: 32
+    subY: 40
+    files:
+      8:  Resources/Items/CombatKnife/HitAnimation_CombatKnife.png
+      12: Resources/Items/AlloyKnife/HitAnimation_AlloyKnife.png
+      16: Resources/Items/AlloySword/HitAnimation_AlloySword.png
+      20: Resources/Items/PlasmaBlade/HitAnimation_PlasmaBlade.png
+      24: Resources/Items/PlasmaSword/HitAnimation_PlasmaSword.png
+#END HIT
+
+#BEGIN SMOKE
+  - type: SMOKE.PCK
+    height: 40
+    width: 384
+    subX: 32
+    subY: 40
+    files:
+      8: Resources/Items/SpriteSheet_SmokeCloud.png
+  - type: SMOKE.PCK
+    height: 40
+    width: 320
+    subX: 32
+    subY: 40
+    files:
+      56: Resources/Items/HitAnimation_PlasmaNew.png
+  - type: SMOKE.PCK
+    height: 80
+    width: 160
+    subX: 32
+    subY: 40
+    files:
+      100: Resources/Items/TaserPistol/HitAnimation_TaserPistol.png
+  - type: SMOKE.PCK
+    height: 80
+    width: 160
+    subX: 32
+    subY: 40
+    files:
+      108: Resources/Units/Drones/HitAnimation_DroneTaser.png
+#END SMOKE
+
+#BEGIN X1
+  - type: X1.PCK
+    width: 1024
+    height: 64
+    subX: 128
+    subY: 64
+    files:
+      56: Resources/Items/SpriteSheet_SmokeExplosion.png
+      64: Resources/Items/SpriteSheet_StunExplosion.png
+#END X1
+##END HIT & EXPLOSTION ANIMATIONS
+
+##BEGIN CRAFTS
+#BEGIN RETALIATOR
+  - type: RETALIATOR.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Crafts/Retaliator/UfoPaedia_Retaliator.png
+  - type: BASEBITS.PCK
+    files:
+      56: Resources/Crafts/Retaliator/BaseBits_Retaliator.png
+  - type: INTICON.PCK
+    files:
+      23: Resources/Crafts/Retaliator/IntIcon_Minimised_Retaliator.png
+      34: Resources/Crafts/Retaliator/IntIcon_Dogfight_Retaliator.png
+#END RETALIATOR
+
+#BEGIN SYKSTRIKER
+  - type: SKYSTRIKER.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Crafts/Skystriker/UfoPaedia_Skystriker.png
+  - type: BASEBITS.PCK
+    files:
+      57: Resources/Crafts/Skystriker/BaseBits_Skystriker.png
+  - type: INTICON.PCK
+    files:
+      24: Resources/Crafts/Skystriker/IntIcon_Minimised_Skystriker.png
+      35: Resources/Crafts/Skystriker/IntIcon_Dogfight_Skystriker.png
+#END SKYSTRIKER
+
+#BEGIN ALLOY CANNON
+  - type: ALLOY_CANNON.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Items/AlloyCannon/UfoPaedia_AlloyCannon.png
+#END ALLOY CANNON
+##END CRAFTS
+
+##BEGIN RESEARCH
+#BEGIN SUPPORT DRONES
+  - type: SUPPORT_DRONES_UFOPAEDIA.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/Units/Drones/UfoPaedia_SupportDrones.png
+#END SUPPORT DRONES
+
+#BEGIN ALLOY AMMO
+  - type: ALLOY_AMMO.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_AlloyAmmo.png
+#END ALLOY AMMO
+
+#BEGIN LASER WEAPONS
+  - type: LASER_WEAPONS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_LaserWeapons.png
+#END LASER WEAPONS
+
+#BEGIN PLASMA WEAPONS
+  - type: PLASMA_WEAPONS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_PlasmaWeapons.png
+#END PLASMA WEAPONS
+
+#BEGIN LAUNCHER WEAPONS
+  - type: LAUNCHER_WEAPONS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_LauncherWeapons.png
+#END LAUNCHER WEAPONS
+
+#BEGIN ALIEN BIOLOGY
+  - type: ALIEN_BIOLOGY.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_AlienBiology.png
+#END ALIEN BIOLOGY
+
+#BEGIN ALIEN LANGUAGE
+  - type: ALIEN_LANGUAGE.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_AlienLanguage.png
+#END ALIEN LANGUAGE
+
+#BEGIN ALIEN POWER SYSTEMS
+  - type: ALIEN_POWERSYSTEMS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_AlienPowerSystems.png
+#END ALIEN POWER SYSTEMS
+
+#BEGIN PSIONICS
+  - type: PSIONICS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/Research/UfoPaedia_Psionics.png
+#END PSIONICS
+##END RESEARCH
+
+##BEGIN XCOM ARMOR
+#BEGIN ARMORED VEST
+  - type: ARMOREDVEST.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/ArmoredVest/SpriteSheet_ArmoredVest.png
+#END ARMORED VEST
+
+#BEGIN ALLOY VEST
+  - type: ALLOYVEST.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/AlloyVest/SpriteSheet_AlloyVest.png
+#END ALLOY VEST
+
+#BEGIN PERSONAL ARMOR
+  - type: XCOM_1.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1400
+    files:
+      0: Resources/Units/PersonalArmor/SpriteSheet_PersonalArmor.png
+#END PERSONAL ARMOR
+
+#BEGIN FYLING SUIT
+  - type: FLYING_SUIT.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1440
+    files:
+      0: Resources/Units/FlyingSuit/SpriteSheet_FlyingSuit.png
+#END FLYING SUIT
+
+#BEGIN REINFORCED POWER SUIT
+  - type: REINFORCED_POWER_SUIT.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1440
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/SpriteSheet_ReinforcedPowerSuit.png
+#END REINFORCED POWER SUIT
+
+#BEGIN REINFORCED FYLING SUIT
+  - type: REINFORCED_FLYING_SUIT.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1440
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/SpriteSheet_ReinforcedFlyingSuit.png
+#END REINFORCED FLYING SUIT
+##BEGIN XCOM ARMOR
+
+##BEGIN DRONES
+#BEGIN DRONE SCOUT
+  - type: DRONE_SCOUT.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/DroneScout/SpriteSheet_DroneScout.png
+#END DRONE SCOUT
+
+#BEGIN DRONE SCANNER
+  - type: DRONE_SCANNER.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/DroneScanner/SpriteSheet_DroneScanner.png
+#END DRONE SCANNER
+
+#BEGIN DRONE MEDIKIT
+  - type: DRONE_MEDIKIT.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/DroneMedikit/SpriteSheet_DroneMedikit.png
+#END DRONE MEDIKIT
+
+#BEGIN DRONE TASER
+  - type: DRONE_TASER.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/DroneTaser/SpriteSheet_DroneTaser.png
+#END DRONE TASER
+
+#BEGIN ALLOY DRONE SCOUT
+  - type: ALLOY_DRONE_SCOUT.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/AlloyDroneScout/SpriteSheet_AlloyDroneScout.png
+#END ALLOY DRONE SCOUT
+
+#BEGIN ALLOY DRONE SCANNER
+  - type: ALLOY_DRONE_SCANNER.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/AlloyDroneScanner/SpriteSheet_AlloyDroneScanner.png
+#END ALLOY DRONE SANNER
+
+#BEGIN ALLOY DRONE MEDIKIT
+  - type: ALLOY_DRONE_MEDIKIT.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/AlloyDroneMedikit/SpriteSheet_AlloyDroneMedikit.png
+#END ALLOY DRONE MEDITKIT
+
+#BEGIN ALLOY DRONE TASER
+  - type: ALLOY_DRONE_TASER.PCK
+    width: 256
+    height: 400
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Drones/AlloyDroneTaser/SpriteSheet_AlloyDroneTaser.png
+#END ALLOY DRONE TASER
+##END DRONES
+
+##BEGIN TANKS
+#BEGIN ALLOY TANKS
+  - type: ALLOYTANKS.PCK
+    width: 256
+    height: 640
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/AlloyTank/SpriteSheet_AlloyTanks.png
+#END ALLOY TANKS
+
+#BEGIN WALKTERTANK PLASMA
+  - type: WALKERTANK_PLASMA.PCK
+    width: 256
+    height: 840
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/WalkertankPlasma/SpriteSheet_WalkertankPlasma.png
+#END WALKERTANK PLASMA
+##END TANKS
+
+##BEGIN ALIENS
+#BEGIN MUTON BERSERKER
+  - type: MUTON_BERSERKER.PCK
+    width: 256
+    height: 1360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MutonBerserker/SpriteSheet_MutonBerserker.png
+  - type: MUTON_BERSERKER.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/MutonBerserker/UfoPaedia_MutonBerserker.png
+  - type: MUTON_BERSERKER_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/MutonBerserker/UfoPaedia_MutonBerserker_Autopsy.png
+#END MUTON BERSERKER
+
+#BEGIN WASPITE
+  - type: WASPITE.PCK
+    width: 512
+    height: 280
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Waspite/SpriteSheet_Waspite.png
+  - type: WASPITE.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Waspite/UfoPaedia_Waspite.png
+  - type: WASPITE_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/Units/Waspite/UfoPaedia_Waspite_Autopsy.png
+#END WASPITE
+
+#BEGIN CYBERMITE
+  - type: CYBERMITE.PCK
+    width: 512
+    height: 240
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Cybermite/SpriteSheet_Cybermite.png
+  - type: CYBERMITE.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Cybermite/UfoPaedia_Cybermite.png
+  - type: CYBERMITE_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Cybermite/UfoPaedia_Cybermite_Autopsy.png
+#END CYBERMITE
+
+#BEGIN GAZER
+  - type: GAZER.PCK
+    width: 512
+    height: 680
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Gazer/SpriteSheet_Gazer.png
+  - type: GAZER.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Gazer/UfoPaedia_Gazer.png
+  - type: GAZER_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Gazer/UfoPaedia_Gazer_Autopsy.png
+#END GAZER
+
+#BEGIN HOLODRONE
+  - type: HOLODRONE.PCK
+    width: 512
+    height: 40
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/Holodrone/SpriteSheet_Holodrone.png
+  - type: HOLODRONE.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Holodrone/UfoPaedia_Holodrone.png
+  - type: HOLODRONE_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/Holodrone/UfoPaedia_Holodrone_Autopsy.png
+#END HOLODRONE
+
+#BEGIN SECTOID ELITE
+  - type: SECTOID_ELITE.PCK
+    width: 256
+    height: 1440
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/SectoidElite/SpriteSheet_SectoidElite.png
+  - type: SECTOID_ELITE.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/SectoidElite/UfoPaedia_SectoidElite.png
+  - type: SECTOID_ELITE_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/SectoidElite/UfoPaedia_SectoidElite_Autopsy.png
+#END SECTOID ELITE
+
+#BEGIN ARMORED CYBERDISC
+  - type: ARMORED_CYBERDISC.PCK
+    width: 256
+    height: 320
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/ArmoredCyberdisc/SpriteSheet_ArmoredCyberdisc.png
+  - type: ARMORED_CYBERDISC.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/ArmoredCyberdisc/UfoPaedia_ArmoredCyberdisc.png
+  - type: ARMORED_CYBERDISC_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/ArmoredCyberdisc/UfoPaedia_ArmoredCyberdisc_Autopsy.png
+#END ARMORED CYBERDISC
+
+#BEGIN MUTON ELITE
+  - type: MUTON_ELITE.PCK
+    width: 256
+    height: 1360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MutonElite/SpriteSheet_MutonElite.png
+  - type: MUTON_ELITE.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/MutonElite/UfoPaedia_MutonElite.png
+  - type: MUTON_ELITE_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/Units/MutonElite/UfoPaedia_MutonElite_Autopsy.png
+#END MUTON ELITE
+
+#BEGIN ARMORED SECTOPOD
+  - type: ARMORED_SECTOPOD.PCK
+    width: 256
+    height: 840
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/ArmoredSectopod/SpriteSheet_ArmoredSectopod.png
+  - type: ARMORED_SECTOPOD.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/ArmoredSectopod/UfoPaedia_ArmoredSectopod.png
+  - type: ARMORED_SECTOPOD_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/ArmoredSectopod/UfoPaedia_ArmoredSectopod_Autopsy.png
+#END ARMORED SECTOPOD
+
+#BEGIN MUTON ELITE GUARD
+  - type: MUTON_ELITE_GUARD.PCK
+    width: 256
+    height: 1360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MutonEliteGuard/SpriteSheet_MutonEliteGuard.png
+  - type: MUTON_ELITE_GUARD.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/MutonEliteGuard/UfoPaedia_MutonEliteGuard.png
+  - type: MUTON_ELITE_GUARD_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/Units/MutonEliteGuard/UfoPaedia_MutonEliteGuard_Autopsy.png
+#END MUTON ELITE GUARD
+
+#BEGIN CHRYSSALID SPITTER
+  - type: CHRYSSALID_SPITTER.PCK
+    width: 256
+    height: 1160
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/ChryssalidSpitter/SpriteSheet_ChryssalidSpitter.png
+  - type: CHRYSSALID_SPITTER.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Units/ChryssalidSpitter/UfoPaedia_ChryssalidSpitter.png
+  - type: CHRYSSALID_SPITTER_AUTOPSY.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/Units/ChryssalidSpitter/UfoPaedia_ChryssalidSpitter_Autopsy.png
+#END CHRYSSALID SPITTER
+##END ALIENS
+
+##BEGIN CIVILIANS
+  - type: MALE_CIVILIAN2.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MaleCivilian_Rocker/SpriteSheet_MaleCivilian_Rocker.png
+  - type: MALE_CIVILIAN3.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MaleCivilian_BlackVest_WhiteShirt/SpriteSheet_MaleCivilian_BlackVest_WhiteShirt.png
+  - type: MALE_CIVILIAN4.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MaleCivilian_ConstructionWorker/SpriteSheet_MaleCivilian_ConstructionWorker.png
+  - type: MALE_CIVILIAN5.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MaleCivilian_Sailor/SpriteSheet_MaleCivilian_Sailor.png
+  - type: MALE_CIVILIAN6.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MaleCivilian_Baggydude/SpriteSheet_MaleCivilian_Baggydude.png
+  - type: MALE_CIVILIAN7.PCK
+    width: 512
+    height: 200
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/MaleCivilian_Mechanic/SpriteSheet_MaleCivilian_Mechanic.png
+  - type: FEMALE_CIVILIAN2.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/FemaleCivilian_SuitBlack_HairRed/SpriteSheet_FemaleCivilian_SuitBlack_HairRed.png
+  - type: FEMALE_CIVILIAN3.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Units/FemaleCivilian_SuitBlue_HairBlond/SpriteSheet_FemaleCivilian_SuitBlue_HairBlond.png
+##END CIVILIANS
+
+##BEGIN ARMOR INVENTORY PICS
+#BEGIN ARMORED VEST
+  - type: MAN_4M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Male_0.png
+  - type: MAN_4M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Male_1.png
+  - type: MAN_4M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Male_2.png
+  - type: MAN_4M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Male_3.png
+  - type: MAN_4F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Female_0.png
+  - type: MAN_4F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Female_1.png
+  - type: MAN_4F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Female_2.png
+  - type: MAN_4F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ArmoredVest/Inventory_ArmoredVest_Female_3.png
+#END ARMORED VEST
+
+#BEGIN ALLOY VEST
+  - type: MAN_5M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Male_0.png
+  - type: MAN_5M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Male_1.png
+  - type: MAN_5M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Male_2.png
+  - type: MAN_5M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Male_3.png
+  - type: MAN_5F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Female_0.png
+  - type: MAN_5F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Female_1.png
+  - type: MAN_5F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Female_2.png
+  - type: MAN_5F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/AlloyVest/Inventory_AlloyVest_Female_3.png
+#END ALLOY VEST
+
+#BEGIN PERSONAL ARMOR
+  - type: MAN_1F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Female_0.png
+  - type: MAN_1F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Female_1.png
+  - type: MAN_1F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Female_2.png
+  - type: MAN_1F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Female_3.png
+  - type: MAN_1M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Male_0.png
+  - type: MAN_1M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Male_1.png
+  - type: MAN_1M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Male_2.png
+  - type: MAN_1M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PersonalArmor/Inventory_PersonalArmor_Male_3.png
+#END PERSONAL ARMOR
+
+#BEGIN POWER SUIT
+  - type: MAN_2M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Male_0.png
+  - type: MAN_2M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Male_1.png
+  - type: MAN_2M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Male_2.png
+  - type: MAN_2M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Male_3.png
+  - type: MAN_2F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Female_0.png
+  - type: MAN_2F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Female_1.png
+  - type: MAN_2F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Female_2.png
+  - type: MAN_2F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/PowerSuit/Inventory_PowerSuit_Female_3.png
+#END POWER SUIT
+
+#BEGIN FLYING SUIT
+  - type: MAN_3M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Male_0.png
+  - type: MAN_3M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Male_1.png
+  - type: MAN_3M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Male_2.png
+  - type: MAN_3M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Male_3.png
+  - type: MAN_3F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Female_0.png
+  - type: MAN_3F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Female_1.png
+  - type: MAN_3F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Female_2.png
+  - type: MAN_3F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/FlyingSuit/Inventory_FlyingSuit_Female_3.png
+#END FLYING SUIT
+
+#BEGIN REINFORCED POWER SUIT
+  - type: MAN_6M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Male_0.png
+  - type: MAN_6M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Male_1.png
+  - type: MAN_6M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Male_2.png
+  - type: MAN_6M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Male_3.png
+  - type: MAN_6F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Female_0.png
+  - type: MAN_6F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Female_1.png
+  - type: MAN_6F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Female_2.png
+  - type: MAN_6F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedPowerSuit/Inventory_ReinforcedPowerSuit_Female_3.png
+#END REINFORCED POWER SUIT
+
+#BEGIN REINFORCED FLYING SUIT
+  - type: MAN_7M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Male_0.png
+  - type: MAN_7M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Male_1.png
+  - type: MAN_7M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Male_2.png
+  - type: MAN_7M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Male_3.png
+  - type: MAN_7F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Female_0.png
+  - type: MAN_7F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Female_1.png
+  - type: MAN_7F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Female_2.png
+  - type: MAN_7F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Units/ReinforcedFlyingSuit/Inventory_ReinforcedFlyingSuit_Female_3.png
+#END REINFORCED FLYING SUIT
+
+#BEGIN ALIENS
+  - type: floaterInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Floater/Inventory_Floater.png
+  - type: sectoidInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Sectoid/Inventory_Sectoid.png
+  - type: snakemanInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Snakeman/Inventory_Snakeman.png
+  - type: mutonInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Muton/Inventory_Muton.png
+  - type: waspiteInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Waspite/Inventory_Waspite.png
+  - type: gazerInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Gazer/Inventory_Gazer.png
+  - type: sectoideliteInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/SectoidElite/Inventory_SectoidElite.png
+  - type: mutoneliteInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/MutonElite/Inventory_MutonElite.png
+  - type: etherealInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/Ethereal/Inventory_Ethereal.png
+  - type: mutoneliteguardInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/Units/MutonEliteGuard/Inventory_MutonEliteGuard.png
+#END ALIENS
+##END ARMOR INVENTORY PICS
+
+##BEGIN UFOS
+  - type: InterceptionFighter
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/Crafts/Ufos/UFO_Fighter.png
+  - type: InterceptionSentry
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/Crafts/Ufos/UFO_Sentry.png
+  - type: InterceptionExcavator
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/Crafts/Ufos/UFO_Excavator.png
+  - type: InterceptionLabship
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/Crafts/Ufos/UFO_Labship.png
+##END UFOS
+
+##BEGIN COMMENDATIONS
+  - type: Commendations #Hardcoded
+    width: 31
+    height: 496
+    subX: 31
+    subY: 8
+    files:
+      0: Resources/Commendations/SpriteSheet_CommendationCommendations.png
+  - type: CommendationDecorations #Hardcoded
+    width: 31
+    height: 80
+    subX: 31
+    subY: 8
+    files:
+      0: Resources/Commendations/SpriteSheet_CommendationDecorations.png
+
+#BEGIN MEDALS
+  - type: ALIENS_KILLED
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AliensKilled.png
+  - type: ALIENS_KILLED_BY_INCENDIARY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AliensKilledByIncendiary.png
+  - type: ALIENS_KILLED_BY_RACE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AliensKilledByRace.png
+  - type: ALIENS_KNOCKED_OUT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AliensKnockedOut.png
+  - type: ALIEN_BASE_ASSAULT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AlienBaseAssault.png
+  - type: ALIEN_SOLDIERS_KILLED_ALL_RACES
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AlienSoliersKilledAllRaces.png
+  - type: ALLBATTLETYPES
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AllBattleTypes.png
+  - type: ALLMISSIONS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AllMissions.png
+  - type: ALLRANKS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AllRanks.png
+  - type: ALLUFOS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AllUfos.png
+  - type: ANTITERROR
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_AntiTerror.png
+  - type: BASE_DEFENDER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_BaseDefender.png
+  - type: BESTOFRANK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_BestOfRank.png
+  - type: BESTSOLDIER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_BestSoldier.png
+  - type: BRAVERYGAIN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_BraveryGain.png
+  - type: DAYS_WOUNDED
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_DaysWounded.png
+  - type: DOUBLEKILL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_DoubleKill.png
+  - type: FALLEN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Fallen.png
+  - type: FLANKSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Flankshot.png
+  - type: GLOBETROTTER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Globetrotter.png
+  - type: GRENADIER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Grenadier.png
+  - type: HEADSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Headshot.png
+  - type: HEALER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Healer.png
+  - type: IMPORTANT_ALIENS_KNOCKED_OUT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_ImportantAliensKnockedOut.png
+  - type: IRON_MAN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Ironman.png
+  - type: LUCKYSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Luckyshot.png
+  - type: MAN_OF_STEEL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_ManOfSteel.png
+  - type: MARTYRER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Martyrer.png
+  - type: MEDIKIT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Medikit.png
+  - type: MELEE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Melee.png
+  - type: MERCY_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_MercyCross.png
+  - type: MIA
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Mia.png
+  - type: MINDCONTROL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_MindControl.png
+  - type: NIGHT_TERRORMISSION_COUNT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_NightTerrormissionCount.png
+  - type: NIKE_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_NikeCross.png
+  - type: ONE_MONTH_SERVICE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_OneMonthService.png
+  - type: ORIGINAL8
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Original8.png
+  - type: POSTMORTEM_KILL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_PostmortemKill.png
+  - type: PSIPANIC
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_PsiPanic.png
+  - type: REACTIONFIRE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Reactionfire.png
+  - type: REARSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Rearshot.png
+  - type: REVIVE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Revive.png
+  - type: SAPPER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Sapper.png
+  - type: SECTOPOD_KILL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_SectopodKill.png
+  - type: SEVEN_IN_ONE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_SevenInOne.png
+  - type: SLAVEKILLS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Slavekills.png
+  - type: SNIPER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Sniper.png
+  - type: STAR_OF_ASCLEPIUS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_StarOfAsclepius.png
+  - type: STATGAIN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_StatGain.png
+  - type: TOTAL_FRIENDLY_FIRED
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalFriendlyFired.png
+  - type: TOTAL_IMPORTANT_MISSIONS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalImportantMissions.png
+  - type: TOTAL_KNOCKED_OUT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalKnockedOut.png
+  - type: TOTAL_LONE_SURVIVOR
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalLoneSurvivor.png
+  - type: TOTAL_MISSION_COUNT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalMissionCount.png
+  - type: TOTAL_MISSION_REGION_COUNT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalMissionRegionCount.png
+  - type: TOTAL_MONTH_SERVICE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalMonthService.png
+  - type: TOTAL_NIGHT_MISSIONS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_TotalNightMissions.png
+  - type: TRAP
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Trap.png
+  - type: VALIANT_CRUX
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_ValiantCrux.png
+  - type: WEAPON_PROFICIENCY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_WeaponProficiency.png
+  - type: WOUNDED
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Commendations/UfoPaedia/UfoPaedia_Medal_Wounded.png
+#END MEDALS
+##END COMMENDATIONS
+###END EXTRASPRITES
